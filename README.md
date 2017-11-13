@@ -1,5 +1,8 @@
 # Dvlopt clojurescript template
 
+[![Clojars
+Project](https://img.shields.io/clojars/v/dvlopt-cljs/lein-template.svg)](https://clojars.org/dvlopt-cljs/lein-template)
+
 Brings figwheel and re-frame.
 
 
