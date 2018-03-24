@@ -35,8 +35,6 @@
                    ["README.md"
                     (render "README.md"
                             data)]
-                   ["CHANGELOG.md"
-                    (render "CHANGELOG.md")]
                    ["project.clj"
                     (render "project.clj"
                             data)]
